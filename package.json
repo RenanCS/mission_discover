@@ -1,0 +1,20 @@
+{
+  "name": "mission_discover",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anônimas dos usuários",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanCS/mission_discover.git"
+  },
+  "keywords": [],
+  "author": "Renan Carvalho de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanCS/mission_discover/issues"
+  },
+  "homepage": "https://github.com/RenanCS/mission_discover#readme"
+}
