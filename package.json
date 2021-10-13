@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/RenanCS/mission_discover/issues"
   },
-  "homepage": "https://github.com/RenanCS/mission_discover#readme"
+  "homepage": "https://github.com/RenanCS/mission_discover#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
