@@ -29,7 +29,7 @@ function handleClick(event, check = true) {
 
     const form = document.querySelector('.modal form');
 
-    form.setAttribute('action', `/room/${rommId}/${questionId}/${slug}`)
+    form.setAttribute('action', `/question/${rommId}/${questionId}/${slug}`)
 
     if (check) {
         modalTitle.innerHTML = "Marcar como lida esta pergunta";
