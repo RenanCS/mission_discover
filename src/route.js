@@ -12,6 +12,8 @@ route.post('/create-room', roomController.create);
 
 route.get('/room/:room',roomController.open);
 
+route.post('/enter-room',roomController.enter);
+
 route.post('/question/create/:room', questionController.create);
 
 route.post('/question/:room/:question/:action',questionController.index);

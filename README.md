@@ -25,9 +25,9 @@ Site:
 
 ## ⚙️ Funcionalidades
 
-- [ ] Criar uma  sala
-- [ ] Poder excluir a sala
-- [ ] Responder comentários
+- [X] Criar uma  sala
+- [X] Poder excluir a sala
+- [X] Responder comentários
 ---
 
 ## 🚀 Como executar o projeto

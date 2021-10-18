@@ -58,6 +58,12 @@ module.exports = {
         })
 
 
+    },
+
+    async enter(req,res) { 
+        const roomId = req.body.roomId;
+
+        res.redirect(`/room/${roomId}`);     
     }
 
 }
