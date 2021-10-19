@@ -4,6 +4,7 @@
   "description": "Projeto desenvolvido para gerenciar perguntas anônimas dos usuários",
   "main": "server.js",
   "scripts": {
+    "start-node": "node src/server.js",
     "start": "nodemon src/server.js",
     "init-db": "node src/db/init.js"
   },
