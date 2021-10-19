@@ -11,6 +11,7 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> •
  <a href="#-problemas-encontrados">Problemas encontrados</a> •
+ <a href="#-layout">Layout</a> •
  <a href="#-tecnologias">Tecnologias</a> •
 </p>
 
