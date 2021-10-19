@@ -14,10 +14,22 @@
  <a href="#-tecnologias">Tecnologias</a> •
 </p>
 
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
 ## 💻 Sobre o projeto
 
-O projeto consiste em uma solução web para apresentar uma sala de chat utilizando:
+O projeto consiste em uma solução web para apresentar uma sala de perguntas e respostas gerenciado por senha, também foi desenvolvido durante os cursos da Rocketseat. 
 - HTML;
+- CSS;
+- JavaScript;
+- NodeJS;
+- EJS;
+- Express;
+- SQLite;
 
 Site: 
 
@@ -52,6 +64,11 @@ $ cd mission_discover
 
 ```
 ---
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009821158959690135/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 
 ## ❌Problemas encontrados
 
