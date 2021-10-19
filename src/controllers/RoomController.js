@@ -51,10 +51,13 @@ module.exports = {
 
         const questionsRead = await db.all(`SELECT id, title, read FROM questions WHERE room = ${roomId} AND read = 1`);
 
+        const hasQuestions = questions.length > 0 || questionsRead.length > 0;
+
         res.render("room", {
             roomId: roomId,
             questions: questions,
-            questionsRead: questionsRead
+            questionsRead: questionsRead,
+            hasQuestions: hasQuestions
         })
 
 

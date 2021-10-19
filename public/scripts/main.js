@@ -42,6 +42,7 @@ function handleClick(event, check = true) {
         modalButton.innerHTML = "Sim, excluir";
         modalButton.classList.add("red");
     }
+    
     modal.open();
 
 }
